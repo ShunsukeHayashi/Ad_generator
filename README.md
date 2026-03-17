@@ -1,3 +1,5 @@
+[![Built by 合同会社みやび](https://img.shields.io/badge/Built%20by-合同会社みやび-blue?style=flat-square&logo=github)](https://miyabi-ai.jp)
+
 # Creative Intel Loop
 
 Creative Intel Loop（クリエイティブ インテル ループ）は、AIを活用した広告クリエイティブの自動生成・編集ツールです。OpenAIのGPT-Image-1とO3モデルを使用して、既存の広告素材から新しいバリエーションを生成したり、編集したりすることができます。
